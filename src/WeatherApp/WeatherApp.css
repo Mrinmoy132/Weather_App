@@ -47,7 +47,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 30px;
     background: linear-gradient(to bottom, #e1bee7, #ffffff);
-    min-height: 100vh;
+/*     min-height: 100vh; */
 }
 
 h1 {
